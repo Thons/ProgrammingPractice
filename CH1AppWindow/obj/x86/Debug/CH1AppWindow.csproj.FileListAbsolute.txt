@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\CH1AppWindow\bin\Debug\CH1AppWindow.exe
+C:\Users\Thons\ProCS\CH1AppWindow\bin\Debug\CH1AppWindow.pdb
+C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\CH1AppWindow.exe
+C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\CH1AppWindow.pdb
