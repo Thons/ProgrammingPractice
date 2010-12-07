@@ -1,5 +1,0 @@
-C:\Users\Thons\ProCS\CH1AppWindow\bin\Debug\CH01AppWindow.exe
-C:\Users\Thons\ProCS\CH1AppWindow\bin\Debug\CH01AppWindow.pdb
-C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\CH01AppWindow.exe
-C:\Users\Thons\ProCS\CH1AppWindow\obj\x86\Debug\CH01AppWindow.pdb
