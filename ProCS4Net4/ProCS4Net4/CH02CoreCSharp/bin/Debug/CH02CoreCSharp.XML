@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CH02CoreCSharp</name>
+    </assembly>
+    <members>
+        <member name="T:CH02CoreCSharp.UseComment">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:CH02CoreCSharp.UseComment.Main(System.String[])">
+            <summary>
+            Mains the specified args.
+            </summary>
+            <param name="args">The args.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH03ObjectType\bin\Debug\CH03ObjectType.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH03ObjectType\bin\Debug\CH03ObjectType.pdb
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH03ObjectType\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH03ObjectType\obj\x86\Debug\CH03ObjectType.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH03ObjectType\obj\x86\Debug\CH03ObjectType.pdb

@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH02CoreCSharp\bin\Debug\CH02CoreCSharp.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH02CoreCSharp\bin\Debug\CH02CoreCSharp.pdb
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH02CoreCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH02CoreCSharp\obj\x86\Debug\CH02CoreCSharp.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\CH02CoreCSharp\obj\x86\Debug\CH02CoreCSharp.pdb

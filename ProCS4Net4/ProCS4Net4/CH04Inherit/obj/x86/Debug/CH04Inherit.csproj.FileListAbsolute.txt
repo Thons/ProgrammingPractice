@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\Inherit\bin\Debug\CH04Inherit.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\Inherit\bin\Debug\CH04Inherit.pdb
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\Inherit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\Inherit\obj\x86\Debug\CH04Inherit.exe
+C:\Users\Thons\ProCS\ProCS4Net4\ProCS4Net4\Inherit\obj\x86\Debug\CH04Inherit.pdb
