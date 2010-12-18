@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02BasicBrushes", "CH02Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH01AppWindow", "CH01AppWindow\CH01AppWindow.csproj", "{475FED65-0CED-40A2-B714-0061E0A89049}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH03Content", "CH03Content\CH03Content.csproj", "{ECECAC30-70C2-468E-B21D-C1430D098458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{475FED65-0CED-40A2-B714-0061E0A89049}.Debug|x86.Build.0 = Debug|x86
 		{475FED65-0CED-40A2-B714-0061E0A89049}.Release|x86.ActiveCfg = Release|x86
 		{475FED65-0CED-40A2-B714-0061E0A89049}.Release|x86.Build.0 = Release|x86
+		{ECECAC30-70C2-468E-B21D-C1430D098458}.Debug|x86.ActiveCfg = Debug|x86
+		{ECECAC30-70C2-468E-B21D-C1430D098458}.Debug|x86.Build.0 = Debug|x86
+		{ECECAC30-70C2-468E-B21D-C1430D098458}.Release|x86.ActiveCfg = Release|x86
+		{ECECAC30-70C2-468E-B21D-C1430D098458}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

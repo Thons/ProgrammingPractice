@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\ProCS4Net4\CH05Generics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\ProCS4Net4\CH05Generics\bin\Debug\CH05Generics.exe
+C:\Users\Thons\ProCS\ProCS4Net4\CH05Generics\bin\Debug\CH05Generics.pdb
+C:\Users\Thons\ProCS\ProCS4Net4\CH05Generics\obj\x86\Debug\CH05Generics.exe
+C:\Users\Thons\ProCS\ProCS4Net4\CH05Generics\obj\x86\Debug\CH05Generics.pdb

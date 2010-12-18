@@ -1,0 +1,17 @@
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\bin\Debug\CH02BasicBrushes.exe
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\bin\Debug\CH02BasicBrushes.pdb
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\MainWindow.baml
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\App.g.cs
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\CH02BasicBrushes_MarkupCompile.cache
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\CH02BasicBrushes.g.resources
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\CH02BasicBrushes.Properties.Resources.resources
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\CH02BasicBrushes.exe
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\CH02BasicBrushes.pdb
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\VrayTheBackground.baml
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\VrayTheBackground.g.cs
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\FlipThroughTheBrushes.baml
+C:\Users\Thons\ProCS\CodeMarkup\CH02BasicBrushes\obj\x86\Debug\FlipThroughTheBrushes.g.cs

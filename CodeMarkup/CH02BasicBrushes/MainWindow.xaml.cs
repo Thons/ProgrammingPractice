@@ -22,6 +22,10 @@ namespace CH02BasicBrushes
         public MainWindow()
         {
             InitializeComponent();
+
+            Color color = Color.FromRgb(0, 255, 255);
+            SolidColorBrush brush = new SolidColorBrush(color);
+            Background = brush;
         }
     }
 }

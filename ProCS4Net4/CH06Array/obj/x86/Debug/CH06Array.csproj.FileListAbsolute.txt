@@ -1,0 +1,5 @@
+C:\Users\Thons\ProCS\ProCS4Net4\CH06Array\bin\Debug\CH06Array.exe
+C:\Users\Thons\ProCS\ProCS4Net4\CH06Array\bin\Debug\CH06Array.pdb
+C:\Users\Thons\ProCS\ProCS4Net4\CH06Array\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thons\ProCS\ProCS4Net4\CH06Array\obj\x86\Debug\CH06Array.exe
+C:\Users\Thons\ProCS\ProCS4Net4\CH06Array\obj\x86\Debug\CH06Array.pdb

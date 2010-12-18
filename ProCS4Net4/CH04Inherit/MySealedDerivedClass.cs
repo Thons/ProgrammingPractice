@@ -5,10 +5,8 @@ using System.Text;
 
 namespace CH04Inherit
 {
-    class Program
+    class MySealedDerivedClass //:MySealedClass Will give a compilation error...
     {
-        static void Main(string[ ] args)
-        {
-        }
+        
     }
 }

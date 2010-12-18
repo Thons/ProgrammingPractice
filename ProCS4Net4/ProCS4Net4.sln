@@ -7,7 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH02CoreCSharp", "CH02CoreC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH03ObjectType", "CH03ObjectType\CH03ObjectType.csproj", "{EB01C997-F653-4946-87FB-B7B8454186CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04Inherit", "Inherit\CH04Inherit.csproj", "{CA9B9123-FAD6-4C2B-92E0-AFBE82ACE433}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH04Inherit", "CH04Inherit\CH04Inherit.csproj", "{CA9B9123-FAD6-4C2B-92E0-AFBE82ACE433}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH05Generics", "CH05Generics\CH05Generics.csproj", "{DC5A287C-09E0-45BB-A241-67562C1EE7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH06Array", "CH06Array\CH06Array.csproj", "{A82FB957-92D5-4796-B261-4A7846FC7BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH07OperatorsTypeCast", "CH07OperatorsTypeCast\CH07OperatorsTypeCast.csproj", "{2459F2A7-D8A5-4A1E-9A61-5F37CDBC9767}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,18 @@ Global
 		{CA9B9123-FAD6-4C2B-92E0-AFBE82ACE433}.Debug|x86.Build.0 = Debug|x86
 		{CA9B9123-FAD6-4C2B-92E0-AFBE82ACE433}.Release|x86.ActiveCfg = Release|x86
 		{CA9B9123-FAD6-4C2B-92E0-AFBE82ACE433}.Release|x86.Build.0 = Release|x86
+		{DC5A287C-09E0-45BB-A241-67562C1EE7C9}.Debug|x86.ActiveCfg = Debug|x86
+		{DC5A287C-09E0-45BB-A241-67562C1EE7C9}.Debug|x86.Build.0 = Debug|x86
+		{DC5A287C-09E0-45BB-A241-67562C1EE7C9}.Release|x86.ActiveCfg = Release|x86
+		{DC5A287C-09E0-45BB-A241-67562C1EE7C9}.Release|x86.Build.0 = Release|x86
+		{A82FB957-92D5-4796-B261-4A7846FC7BBD}.Debug|x86.ActiveCfg = Debug|x86
+		{A82FB957-92D5-4796-B261-4A7846FC7BBD}.Debug|x86.Build.0 = Debug|x86
+		{A82FB957-92D5-4796-B261-4A7846FC7BBD}.Release|x86.ActiveCfg = Release|x86
+		{A82FB957-92D5-4796-B261-4A7846FC7BBD}.Release|x86.Build.0 = Release|x86
+		{2459F2A7-D8A5-4A1E-9A61-5F37CDBC9767}.Debug|x86.ActiveCfg = Debug|x86
+		{2459F2A7-D8A5-4A1E-9A61-5F37CDBC9767}.Debug|x86.Build.0 = Debug|x86
+		{2459F2A7-D8A5-4A1E-9A61-5F37CDBC9767}.Release|x86.ActiveCfg = Release|x86
+		{2459F2A7-D8A5-4A1E-9A61-5F37CDBC9767}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

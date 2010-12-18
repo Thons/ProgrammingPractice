@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>CH04Inherit.MainEntry</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,8 +46,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="CurrentAccount.cs" />
+    <Compile Include="GoldAccount.cs" />
+    <Compile Include="IBankAccount.cs" />
+    <Compile Include="ITransferBankAccount.cs" />
+    <Compile Include="MainEntry.cs" />
+    <Compile Include="MyAbsDerivedClass.cs" />
+    <Compile Include="MyAbstructClass.cs" />
+    <Compile Include="MyBaseClass.cs" />
+    <Compile Include="MyDerivedClass.cs" />
+    <Compile Include="MySealedClass.cs" />
+    <Compile Include="MySealedDerivedClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SaverAccount.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
